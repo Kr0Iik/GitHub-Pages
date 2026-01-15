@@ -9,5 +9,5 @@
 
 ## С граматикой все плохо ## 
 
-! [Моя аватрка ](https://avatars.akamai.steamstatic.com/3fa4c95f8b309959fbb00e2df0649ffcc36dbea2_full.jpg)
+[Моя аватрка ](https://avatars.akamai.steamstatic.com/3fa4c95f8b309959fbb00e2df0649ffcc36dbea2_full.jpg)
 
